@@ -1,5 +1,6 @@
 <h1 align="center">⚖️ LRAS: Advanced Legal Reasoning with Agentic Search</h1>
 
+<p align="center">
   ─────────────  ✦  ─────────────
 </p>
 
