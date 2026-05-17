@@ -21,16 +21,6 @@
 If you find this work useful, please cite our paper and give us a shining star ðŸŒŸ
 
 ```
-@misc{dai2025legaldeltaenhancinglegalreasoning,
-      title={Legal$\Delta$: Enhancing Legal Reasoning in LLMs via Reinforcement Learning with Chain-of-Thought Guided Information Gain}, 
-      author={Xin Dai and Buqiang Xu and Zhenghao Liu and Yukun Yan and Huiyuan Xie and Xiaoyuan Yi and Shuo Wang and Ge Yu},
-      year={2025},
-      eprint={2508.12281},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2508.12281}, 
-}
-```
 @misc{zhou2026lrasadvancedlegalreasoning,
       title={LRAS: Advanced Legal Reasoning with Agentic Search}, 
       author={Yujin Zhou and Chuxue Cao and Jinluan Yang and Lijun Wu and Conghui He and Sirui Han and Yike Guo},
@@ -40,6 +30,8 @@ If you find this work useful, please cite our paper and give us a shining star ð
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2601.07296}, 
 }
+```
+
 ---
 
 ## Timeline
