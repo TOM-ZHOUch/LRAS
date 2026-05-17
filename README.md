@@ -116,3 +116,7 @@ outputs/
 ```
 
 If evaluation is interrupted, simply re-run the same command — completed samples are automatically skipped.
+
+## 📄 License
+
+This project is released under the [MIT License](LICENSE).
