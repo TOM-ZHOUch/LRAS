@@ -34,7 +34,7 @@
 
 ```
 evaluation_code/
-├── eval_sft.py       # Main evaluation script
+├── eval.py           # Main evaluation script
 ├── text_search.py    # Search pipeline (SerpAPI + Jina Reader + LLM summarizer)
 ├── utils.py          # Data loading utilities
 ├── prompts.py        # Prompt template
@@ -64,7 +64,7 @@ Any OpenAI-compatible endpoint works. Replace the model name and port as needed.
 **Without web search (mock mode):**
 
 ```bash
-python eval_sft.py \
+python eval.py \
     --data-type lawbench \
     --data-path /path/to/data \
     --base-url http://localhost:8000/v1 \
@@ -86,7 +86,7 @@ export SUMMARIZER_MODEL="gpt-4o"
 Then run with `--enable-real-search`:
 
 ```bash
-python eval_sft.py \
+python eval.py \
     --data-type custom \
     --data-path /path/to/data.json \
     --base-url http://localhost:8000/v1 \
