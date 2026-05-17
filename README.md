@@ -20,7 +20,9 @@
 
 ## Timeline
 
-- **[2026/05/10]** 🚀 We released model checkpoints across multiple scales: [LRAS-RL-Qwen3-4B](https://huggingface.co/Edwinzz/LRAS-RL-Qwen3-4B), [LRAS-RL-Qwen3-8B](https://huggingface.co/Edwinzz/LRAS-RL-Qwen3-8B), and [LRAS-RL-Qwen3-14B](https://huggingface.co/Edwinzz/LRAS-RL-Qwen3-14B)! Evaluation code and dataset will be released soon, stay tuned!
+- **[2026/05/18]** 🔧 We released the **evaluation code** for LRAS! See [Evaluation](#evaluation) below for usage.
+
+- **[2026/05/10]** 🚀 We released model checkpoints across multiple scales: [LRAS-RL-Qwen3-4B](https://huggingface.co/Edwinzz/LRAS-RL-Qwen3-4B), [LRAS-RL-Qwen3-8B](https://huggingface.co/Edwinzz/LRAS-RL-Qwen3-8B), and [LRAS-RL-Qwen3-14B](https://huggingface.co/Edwinzz/LRAS-RL-Qwen3-14B)! Dataset will be released soon, stay tuned!
 
 - **[2026/01/12]** 🎉 Our paper *"LRAS: Advanced Legal Reasoning with Agentic Search"* is now available on arXiv!
 
