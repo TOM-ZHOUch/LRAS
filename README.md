@@ -49,7 +49,7 @@ If you find this work useful, please cite our paper and give us a shining star �
 ### File Structure
 
 ```
-evaluation_code/
+inference/
 ├── eval.py           # Main evaluation script
 ├── text_search.py    # Search pipeline (SerpAPI + Jina Reader + LLM summarizer)
 ├── utils.py          # Data loading utilities
